@@ -10,7 +10,7 @@ import Footer from "./Footer";
 const Home = () => {
   return (
     <>
-      <Navbar />
+      
       {/* Home Start */}
       <div className="top_img">
         <div className="row  heading_text">
