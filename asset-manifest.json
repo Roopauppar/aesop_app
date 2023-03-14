@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aesop_app/static/css/main.77632e77.css",
-    "main.js": "/aesop_app/static/js/main.edc22116.js",
+    "main.js": "/aesop_app/static/js/main.b7eef9f6.js",
     "static/media/Aesop-HK-Hollywood-Road-Hero-Desktop-2880x1620.jpg": "/aesop_app/static/media/Aesop-HK-Hollywood-Road-Hero-Desktop-2880x1620.6881cc02a049502c6ed6.jpg",
     "static/media/Aesop_Home_2023_Scented_Home_Web_Homepage_Secondary_Mid_Desktop_2560x1440px.avif": "/aesop_app/static/media/Aesop_Home_2023_Scented_Home_Web_Homepage_Secondary_Mid_Desktop_2560x1440px.bcecbd459b942b9f4fa6.avif",
     "static/media/Aesop_Harbour_City_II_Hero_Bleed_Desktop_2880x1620px.webp": "/aesop_app/static/media/Aesop_Harbour_City_II_Hero_Bleed_Desktop_2880x1620px.db998389a8bcb1757138.webp",
@@ -27,10 +27,10 @@
     "static/media/Aesop_Skin_Damascan_Rose_Facial_Treatment_25mL_Web_Large_684x668px.webp": "/aesop_app/static/media/Aesop_Skin_Damascan_Rose_Facial_Treatment_25mL_Web_Large_684x668px.7f8e56fceb0c9597b833.webp",
     "index.html": "/aesop_app/index.html",
     "main.77632e77.css.map": "/aesop_app/static/css/main.77632e77.css.map",
-    "main.edc22116.js.map": "/aesop_app/static/js/main.edc22116.js.map"
+    "main.b7eef9f6.js.map": "/aesop_app/static/js/main.b7eef9f6.js.map"
   },
   "entrypoints": [
     "static/css/main.77632e77.css",
-    "static/js/main.edc22116.js"
+    "static/js/main.b7eef9f6.js"
   ]
 }
