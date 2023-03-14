@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/aesop_app/static/css/main.77632e77.css",
+    "main.js": "/aesop_app/static/js/main.edc22116.js",
+    "static/media/Aesop-HK-Hollywood-Road-Hero-Desktop-2880x1620.jpg": "/aesop_app/static/media/Aesop-HK-Hollywood-Road-Hero-Desktop-2880x1620.6881cc02a049502c6ed6.jpg",
+    "static/media/Aesop_Home_2023_Scented_Home_Web_Homepage_Secondary_Mid_Desktop_2560x1440px.avif": "/aesop_app/static/media/Aesop_Home_2023_Scented_Home_Web_Homepage_Secondary_Mid_Desktop_2560x1440px.bcecbd459b942b9f4fa6.avif",
+    "static/media/Aesop_Harbour_City_II_Hero_Bleed_Desktop_2880x1620px.webp": "/aesop_app/static/media/Aesop_Harbour_City_II_Hero_Bleed_Desktop_2880x1620px.db998389a8bcb1757138.webp",
+    "static/media/Aesop-HK-Gough-Street-Hero-Desktop-2880x1620px.jpg": "/aesop_app/static/media/Aesop-HK-Gough-Street-Hero-Desktop-2880x1620px.6ffd65ca1f2ad84d4162.jpg",
+    "static/media/Aesop_Gift_Kits_2022-23_Web_Homepage_Secondary_Corporate_Gifting_Mid_Desktop_2560x1440px.jpg": "/aesop_app/static/media/Aesop_Gift_Kits_2022-23_Web_Homepage_Secondary_Corporate_Gifting_Mid_Desktop_2560x1440px.6a020b851cdc0cbbcb30.jpg",
+    "static/media/Aesop_Skin_Sublime_Replenishing_Night_Masque_60mL_Web_Large_901x478px (1).png": "/aesop_app/static/media/Aesop_Skin_Sublime_Replenishing_Night_Masque_60mL_Web_Large_901x478px (1).05a615b2fb034f08fd94.png",
+    "static/media/Aesop_Skin_Sublime_Replenishing_Night_Masque_60mL_Web_Large_901x478px.png": "/aesop_app/static/media/Aesop_Skin_Sublime_Replenishing_Night_Masque_60mL_Web_Large_901x478px.05a615b2fb034f08fd94.png",
+    "static/media/Aesop_Incense_2023_Web_Homepage_Primary_Full_Bleed_Desktop_2880x1044px.jpg": "/aesop_app/static/media/Aesop_Incense_2023_Web_Homepage_Primary_Full_Bleed_Desktop_2880x1044px.b2a205562da0f216204b.jpg",
+    "static/media/Aesop_Skin_Lucent_Facial_Concentrate_60mL_Web_Large_684x668px.png": "/aesop_app/static/media/Aesop_Skin_Lucent_Facial_Concentrate_60mL_Web_Large_684x668px.c0f807950794adf20f94.png",
+    "static/media/Aesop_Fragrance_Marrakech_Eau_de_Parfum_50mL_Web_Large_1000x977px.webp": "/aesop_app/static/media/Aesop_Fragrance_Marrakech_Eau_de_Parfum_50mL_Web_Large_1000x977px.fdd0bebaf75ab8f8567c.webp",
+    "static/media/Aesop_Home_Murasaki_Aromatique_Incense_Web_Large_1584x1384px.webp": "/aesop_app/static/media/Aesop_Home_Murasaki_Aromatique_Incense_Web_Large_1584x1384px.4abb479470c75868601e.webp",
+    "static/media/Aesop_Fragrance_Rozu_Eau_de_Parfum_50mL_Web_Large_1000x977px.webp": "/aesop_app/static/media/Aesop_Fragrance_Rozu_Eau_de_Parfum_50mL_Web_Large_1000x977px.ac0aa25047d17130f93c.webp",
+    "static/media/Aesop-Other-Aesop-Book-1-Large-835x962px.webp": "/aesop_app/static/media/Aesop-Other-Aesop-Book-1-Large-835x962px.90bac9471fd8ae012b5b.webp",
+    "static/media/Aesop_Skin_Exalted_Eye_Serum_15ml_Web_Medium_535x522px.png": "/aesop_app/static/media/Aesop_Skin_Exalted_Eye_Serum_15ml_Web_Medium_535x522px.46154e30a64a0365cafd.png",
+    "static/media/Aesop_Skincare_Plus_Landing_Page_Secondary_Desktop_1690x1080px.webp": "/aesop_app/static/media/Aesop_Skincare_Plus_Landing_Page_Secondary_Desktop_1690x1080px.8a14b792d5c280dabdf7.webp",
+    "static/media/Aesop_Home_Bronze_Incense_Holder_Web_Large_1150x481px.webp": "/aesop_app/static/media/Aesop_Home_Bronze_Incense_Holder_Web_Large_1150x481px.660f74c1377499ddc8eb.webp",
+    "static/media/Aesop_Kits_Rick_Owens_Web_Large_1584x962px.webp": "/aesop_app/static/media/Aesop_Kits_Rick_Owens_Web_Large_1584x962px.93ab2f3474797ee900e3.webp",
+    "static/media/Aesop-Body-Geranium-Leaf-Body-Cleanser-100mL-Hybris-Large-835x962px.webp": "/aesop_app/static/media/Aesop-Body-Geranium-Leaf-Body-Cleanser-100mL-Hybris-Large-835x962px.d21a84bb77440223f2b2.webp",
+    "static/media/Aesop_Home_Aganice_Aromatique_Candle_Web_Large_1102x962px.webp": "/aesop_app/static/media/Aesop_Home_Aganice_Aromatique_Candle_Web_Large_1102x962px.01e65cee2c3b9f21aebd.webp",
+    "static/media/Aesop_Fragrance_Miraceti_Eau_de_Parfum_50mL_Web_Large_684x668px.webp": "/aesop_app/static/media/Aesop_Fragrance_Miraceti_Eau_de_Parfum_50mL_Web_Large_684x668px.ecad0d8ae5b8906d7dd1.webp",
+    "static/media/Aesop-Home-Room-Spray-Istros-100mL-large.webp": "/aesop_app/static/media/Aesop-Home-Room-Spray-Istros-100mL-large.415e2f98bc5192970a3c.webp",
+    "static/media/Aesop_Skin_B_Triple_C_Facial_Balancing_Gel_60mL_Web_Large_901x478px.webp": "/aesop_app/static/media/Aesop_Skin_B_Triple_C_Facial_Balancing_Gel_60mL_Web_Large_901x478px.3fa89b3105e0cf2ffe7e.webp",
+    "static/media/Aesop_Skin_Damascan_Rose_Facial_Treatment_25mL_Web_Large_684x668px.webp": "/aesop_app/static/media/Aesop_Skin_Damascan_Rose_Facial_Treatment_25mL_Web_Large_684x668px.7f8e56fceb0c9597b833.webp",
+    "index.html": "/aesop_app/index.html",
+    "main.77632e77.css.map": "/aesop_app/static/css/main.77632e77.css.map",
+    "main.edc22116.js.map": "/aesop_app/static/js/main.edc22116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77632e77.css",
+    "static/js/main.edc22116.js"
+  ]
+}
