@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./Navbar";
+// import Navbar from "./Navbar";
 import { Link } from "react-router-dom";
 import "./home.css";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -526,7 +526,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <Footer/>
+      {/* <Footer/> */}
     </>
   );
 };
